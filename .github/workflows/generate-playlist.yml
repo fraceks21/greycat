@@ -1,0 +1,40 @@
+name: 📺 Auto-generate TV playlists
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'     # ogni 4 ore
+  workflow_dispatch:         # per lancio manuale
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Prepara variabili d’ambiente
+      run: |
+        echo "PZPROXY=${{ secrets.PZPROXY }}"        >> .env
+        echo "MFPDD=${{ secrets.MFPDD }}"            >> .env
+        echo "PSWMFP=${{ secrets.PSWMFP }}"          >> .env
+        echo "RBT_GIT_HTML_BASE_URL=${{ secrets.RBT_GIT_HTML_BASE_URL }}" >> .env
+        echo "NOMEGITHUB=${{ secrets.NOMEGITHUB }}"  >> .env
+        echo "NOMEREPO=${{ secrets.NOMEREPO }}"      >> .env
+
+    - name: Rendi eseguibili gli script
+      run: |
+        chmod +x *.sh
+
+    - name: Esegui tutti gli update scripts
+      run: |
+        ./hat.sh
+        ./thisnot.sh
+        # aggiungi qui tutti gli altri .sh che generano m3u8
+
+    - name: Commit & push playlist aggiornate
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "🔄 Auto-update playlists"
+        file_pattern: "download/*.m3u8"
+        branch: "main"
