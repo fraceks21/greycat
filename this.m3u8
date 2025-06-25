@@ -1,7 +1,13 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
+#EXTINF:-1 tvg-id="DaznFree2" tvg-name="CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA MERCOLEDI 25 GIUGNO 21:00 Borussia Dortmund - Ulsan" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/g4nei23jpl2o1snpfgnzr1a5z/web/stream.mpd%3Foutlet%3Ddazn-row
+
 #EXTINF:-1 tvg-id="SporTV2_BR" tvg-name="CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA MERCOLEDI 25 GIUGNO 21:00 Wydad Casablanca - Al Ain" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd&key_id=9009b7189e3e68cc09d17811f2beb55a&key=dd3f96a94c909da48ff40c92aabf8cf3
+
+#EXTINF:-1 tvg-id="DaznFree" tvg-name="CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA MERCOLEDI 25 GIUGNO 21:00 Mamelodi Sundowns - Fluminense" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/qzvotq7uls361k5d734xcm0zz/web/stream.mpd%3Foutlet%3Ddazn-row
 
 #EXTINF:-1 tvg-id="SporTV3_BR" tvg-name="CAMPIONATO EUROPEO U.21, SEMIFINALI - SLOVACCHIA MERCOLEDI 25 GIUGNO 03:00 Al Hilal - Pachuca" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", SporTV (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte-azion.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/d3a1ynfuue/out/v1/957ce3c7a9f149968f91068db92e637b/cenc-sd.mpd&key_id=cb705d43ec369891b851a078cabfac5c&key=fdfefad94eac611692a9e790f266ae4d
