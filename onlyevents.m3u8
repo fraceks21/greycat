@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AMA Supercross Championship Southwick - AMA Supercross Championship Southwick" tvg-name="15:00 AMA Supercross Championship Southwick - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Peacock
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-163.php
+
+#EXTINF:-1 tvg-id="WWE Night of Champions - WWE Night of Champions" tvg-name="18:00 WWE Night of Champions - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Netflix PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-164.php
+
+#EXTINF:-1 tvg-id="Polaris 32 - Women's Squads" tvg-name="19:00 Polaris 32: Women's Squads - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", UFC Fight Pass
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-165.php
+
+#EXTINF:-1 tvg-id="Superbikes Motoamerica Ridge Motorsports - Superbikes Motoamerica Ridge Motorsports" tvg-name="20:00 Superbikes Motoamerica Ridge Motorsports - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-166.php
+
+#EXTINF:-1 tvg-id="Weekly Racing Fonda Speedway - Weekly Racing Fonda Speedway" tvg-name="23:00 Weekly Racing Fonda Speedway - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-167.php
+
+#EXTINF:-1 tvg-id="DIRTcar Summer Nationals Late Modles Highland - DIRTcar Summer Nationals Late Modles Highland" tvg-name="23:15 DIRTcar Summer Nationals Late Modles Highland - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Dirtvision
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-168.php
+
+#EXTINF:-1 tvg-id="Millbridge Speedway Sprint Cars - Millbridge Speedway Sprint Cars" tvg-name="23:15 Millbridge Speedway Sprint Cars - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-169.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Normal - World of Outlaws Late Models Normal" tvg-name="00:15 World of Outlaws Late Models Normal - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-170.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - World of Outlaws Sprint Cars" tvg-name="00:30 World of Outlaws Sprint Cars - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-171.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Tulsa - American Sprint Car Series Tulsa" tvg-name="00:45 American Sprint Car Series Tulsa - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Event PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-172.php
+
+#EXTINF:-1 tvg-id="WR Texas Title Tournament 2025 - WR Texas Title Tournament 2025" tvg-name="02:00 WR Texas Title Tournament 2025 - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Triller Tv
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-173.php
+
+#EXTINF:-1 tvg-id="FSW - Scars Stripes 2025" tvg-name="03:00 FSW: Scars Stripes 2025 - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Triller Tv
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-174.php
+
+#EXTINF:-1 tvg-id="Armored MMA 2025 - Medieval Cage Fighting Championship, Portland O" tvg-name="03:00 Armored MMA 2025: Medieval Cage Fighting Championship, Portland O - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="PPV Events", Triller Tv
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-175.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - First Division - Longford Town vs UCD" tvg-name="19:30 Ireland Republic - First Division : Longford Town vs UCD - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LOITV
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-151.php
 
@@ -1151,6 +1190,9 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 #EXTINF:-1 tvg-id="Boxing - Avious Griffin vs Julian Rodriguez" tvg-name="23:00 Boxing : Avious Griffin vs Julian Rodriguez - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", DAZN PPV
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-68.php
 
+#EXTINF:-1 tvg-id="Boxing - Jean Pascal vs Michal Cieslak" tvg-name="00:00 Boxing : Jean Pascal vs Michal Cieslak - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", Triller Tv
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-176.php
+
 #EXTINF:-1 tvg-id="Boxing - Jean Pascal vs Michal Cieslak" tvg-name="00:00 Boxing : Jean Pascal vs Michal Cieslak - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", TVP Sport Poland
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-128.php
 
@@ -1159,6 +1201,12 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 
 #EXTINF:-1 tvg-id="Boxing - Jean Pascal vs Michal Cieslak" tvg-name="00:00 Boxing : Jean Pascal vs Michal Cieslak - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", ESPN3 Brazil
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-83.php
+
+#EXTINF:-1 tvg-id="Boxing - Jake Paul vs Julio Cesar Chavez Jr" tvg-name="01:00 Boxing : Jake Paul vs Julio Cesar Chavez Jr - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", DAZN PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-177.php
+
+#EXTINF:-1 tvg-id="Boxing - Jake Paul vs Julio Cesar Chavez Jr" tvg-name="01:00 Boxing : Jake Paul vs Julio Cesar Chavez Jr - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", DAZN PPV
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-178.php
 
 #EXTINF:-1 tvg-id="Boxing - Jake Paul vs Julio Cesar Chavez Jr" tvg-name="01:00 Boxing : Jake Paul vs Julio Cesar Chavez Jr - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxing", DAZN PPV
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-69.php
