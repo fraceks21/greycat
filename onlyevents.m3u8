@@ -1622,3 +1622,1278 @@ https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp
 #EXTINF:-1 tvg-id="Golden League W - Ukraine W vs Sweden W" tvg-name="18:00 Golden League W : Ukraine W vs Sweden W - 28/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport TV6 Portugal
 https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-291.php
 
+#EXTINF:-1 tvg-id="Sweden - Superettan - Örebro vs Kalmar" tvg-name="12:00 Sweden - Superettan : Örebro vs Kalmar - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 5 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-1.php
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - AIK vs IFK Göteborg" tvg-name="13:00 Sweden - Allsvenskan : AIK vs IFK Göteborg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Kanal 5 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - AIK vs IFK Göteborg" tvg-name="13:00 Sweden - Allsvenskan : AIK vs IFK Göteborg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 1 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-3.php
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - AIK vs IFK Göteborg" tvg-name="13:00 Sweden - Allsvenskan : AIK vs IFK Göteborg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-429.php
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Degerfors vs Brommapojkarna" tvg-name="13:00 Sweden - Allsvenskan : Degerfors vs Brommapojkarna - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 3 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Women's Asian Cup - Bahrain vs Bangladesh" tvg-name="13:30 Asia - AFC Women's Asian Cup : Bahrain vs Bangladesh - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", T Sports Bangladesh
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-270.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Falkenberg vs Umeå" tvg-name="14:00 Sweden - Superettan : Falkenberg vs Umeå - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 6 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-1.php
+
+#EXTINF:-1 tvg-id="Lithuania - A Lyga - FA Šiauliai vs Džiugas Telšiai" tvg-name="15:00 Lithuania - A Lyga : FA Šiauliai vs Džiugas Telšiai - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport klub 5 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-76.php
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Häcken vs GAIS" tvg-name="15:30 Sweden - Allsvenskan : Häcken vs GAIS - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 2 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-5.php
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Värnamo vs Elfsborg" tvg-name="15:30 Sweden - Allsvenskan : Värnamo vs Elfsborg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", max Extra 4 Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-6.php
+
+#EXTINF:-1 tvg-id="Norway - Eliteserien - Fredrikstad vs Tromsø" tvg-name="16:00 Norway - Eliteserien : Fredrikstad vs Tromsø - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV2 Sport 1 Norway
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-7.php
+
+#EXTINF:-1 tvg-id="Norway - Eliteserien - Bodø / Glimt vs Sarpsborg 08" tvg-name="16:00 Norway - Eliteserien : Bodø / Glimt vs Sarpsborg 08 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 4 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-581.php
+
+#EXTINF:-1 tvg-id="Norway - Eliteserien - Bodø / Glimt vs Sarpsborg 08" tvg-name="16:00 Norway - Eliteserien : Bodø / Glimt vs Sarpsborg 08 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport klub 4 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="Lithuania A Lyga - Panevėžys vs Žalgiris" tvg-name="16:25 Lithuania A Lyga : Panevėžys vs Žalgiris - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", LRT Plius
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-77.php
+
+#EXTINF:-1 tvg-id="World - Club Friendly - Levski Sofia vs Montana" tvg-name="16:30 World - Club Friendly : Levski Sofia vs Montana - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Diema Sport Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-465.php
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Juventud vs Progreso" tvg-name="16:30 Uruguay - Primera Division : Juventud vs Progreso - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", GOLTV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-597.php
+
+#EXTINF:-1 tvg-id="World - Club Friendly - Zenit vs Crvena Zvezda" tvg-name="17:00 World - Club Friendly : Zenit vs Crvena Zvezda - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Match Premier Russia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-573.php
+
+#EXTINF:-1 tvg-id="World - Club Friendly - Zenit vs Crvena Zvezda" tvg-name="17:00 World - Club Friendly : Zenit vs Crvena Zvezda - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MATCH TV Russia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-127.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Channel 5 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-355.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports Golf UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-70.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-338.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", truTV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-341.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 1TV Georgia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-29.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TeleCinco Espana
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-532.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Pro Arena Romania
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-30.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport 2 Albania
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-55.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV BR
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", BNT 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-476.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT 1 Turkey
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-3.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-66.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Univision
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-132.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ANT1 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Dsports Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-86.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport 2 Digitalb
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-8.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MáXimo 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-572.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-414.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Inter Miami" tvg-name="17:00 FIFA Club World Cup : PSG vs Inter Miami - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-144.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ITV 1 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-350.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", CBS Sports Network USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Vodafone Sport
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-260.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-49.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Polsat Sport Premium 1 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-9.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Mexico
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-925.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Mexico
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-925.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-81.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - England vs Jamaica" tvg-name="17:00 Women's Friendly : England vs Jamaica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", V Sport Premium
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-10.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Sporting Cristal vs Comerciantes Unidos" tvg-name="17:00 Peru - Primera Division : Sporting Cristal vs Comerciantes Unidos - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Liga 1 Max Peru
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-11.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Sporting Cristal vs Comerciantes Unidos" tvg-name="17:00 Peru - Primera Division : Sporting Cristal vs Comerciantes Unidos - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Deportes
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-643.php
+
+#EXTINF:-1 tvg-id="Iceland - Besta deild karla - Vestri vs ÍA" tvg-name="18:00 Iceland - Besta deild karla : Vestri vs ÍA - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SÝN Sport 2 Iceland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-12.php
+
+#EXTINF:-1 tvg-id="Norway - Eliteserien - Strømsgodset vs Vålerenga" tvg-name="18:15 Norway - Eliteserien : Strømsgodset vs Vålerenga - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TV2 Direkte Norway
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-13.php
+
+#EXTINF:-1 tvg-id="Norway - Eliteserien - Strømsgodset vs Vålerenga" tvg-name="18:15 Norway - Eliteserien : Strømsgodset vs Vålerenga - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Arena Sport 2 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-430.php
+
+#EXTINF:-1 tvg-id="Norway - Eliteserien - Strømsgodset vs Vålerenga" tvg-name="18:15 Norway - Eliteserien : Strømsgodset vs Vålerenga - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport klub 4 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Racing vs Torque" tvg-name="19:00 Uruguay - Primera Division : Racing vs Torque - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", GOLTV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-597.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - USA vs Republic of Ireland" tvg-name="20:00 Women's Friendly : USA vs Republic of Ireland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", NBC UNIVERSO USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-845.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - USA vs Republic of Ireland" tvg-name="20:00 Women's Friendly : USA vs Republic of Ireland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TNT USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-338.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - USA vs Republic of Ireland" tvg-name="20:00 Women's Friendly : USA vs Republic of Ireland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", truTV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-341.php
+
+#EXTINF:-1 tvg-id="Women's Friendly - USA vs Republic of Ireland" tvg-name="20:00 Women's Friendly : USA vs Republic of Ireland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", RTE 2 Ireland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-365.php
+
+#EXTINF:-1 tvg-id="Iceland - Besta deild karla - Víkingur Reykjavík vs Afturelding" tvg-name="20:15 Iceland - Besta deild karla : Víkingur Reykjavík vs Afturelding - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SÝN Sport 5 Iceland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-5.php
+
+#EXTINF:-1 tvg-id="Iceland - Besta deild karla - KR vs FH" tvg-name="20:15 Iceland - Besta deild karla : KR vs FH - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SÝN Sport 1 Iceland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-6.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Channel 5 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-355.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sky Sports Golf UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-70.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sat.1 DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-729.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", DAZN1 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-2.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TRT 1 Turkey
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-3.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", 1TV Georgia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-29.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Italia 1 IT
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-15.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", M4 Sports Hungary
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-265.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Tlefe Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-30.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport 2 Albania
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-55.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SporTV BR
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-78.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", BNT 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-476.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", BNT 3
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-478.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport 2 Digitalb
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-8.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport MáXimo 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-572.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport Premier League
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-414.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", SuperSport La Liga
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-415.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-144.php
+
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs Bayern München" tvg-name="21:00 FIFA Club World Cup : Flamengo vs Bayern München - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 5 Live Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Sports 1 USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-39.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Viaplay Sports 2 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-550.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Premier Sports 2 Ireland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-799.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN5
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-115.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-111.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-571.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-49.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Football
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-124.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-66.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Univision
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-132.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN4 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-85.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-150.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - Canada vs Guatemala" tvg-name="21:00 CONCACAF Gold Cup : Canada vs Guatemala - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-141.php
+
+#EXTINF:-1 tvg-id="Canadian Premier League - Forge vs York United" tvg-name="21:00 Canadian Premier League : Forge vs York United - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Fox Soccer Plus
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-756.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Alianza Atlético vs Atlético Grau" tvg-name="21:00 Peru - Primera Division : Alianza Atlético vs Atlético Grau - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Liga 1 Max Peru
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-11.php
+
+#EXTINF:-1 tvg-id="Copa Argentina - Gimnasia Mendoza vs Independiente" tvg-name="21:00 Copa Argentina : Gimnasia Mendoza vs Independiente - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TyC Sports Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-746.php
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Nacional vs Danubio" tvg-name="22:00 Uruguay - Primera Division : Nacional vs Danubio - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", GOLTV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-597.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Columbus Crew vs Philadelphia Union" tvg-name="23:00 Major League Soccer : Columbus Crew vs Philadelphia Union - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MLS Season Pass
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-59.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Columbus Crew vs Philadelphia Union" tvg-name="23:00 Major League Soccer : Columbus Crew vs Philadelphia Union - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Esport3 Spain
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-4.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Columbus Crew vs Philadelphia Union" tvg-name="23:00 Major League Soccer : Columbus Crew vs Philadelphia Union - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MAX Sport 4 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-475.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Columbus Crew vs Philadelphia Union" tvg-name="23:00 Major League Soccer : Columbus Crew vs Philadelphia Union - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 1 Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-140.php
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Chapecoense vs Goiás" tvg-name="23:00 Brazil - Serie B : Chapecoense vs Goiás - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-81.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOX Network USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-54.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", FOXNY USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-768.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Viaplay Sports 2 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-550.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN3
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-113.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TSN5
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-115.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sportdigital FUSSBALL DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-571.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport TV1 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-49.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN 1 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-379.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", TUDN USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-66.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Univision
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-132.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Astro Football
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-124.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-81.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", ESPN2 Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-150.php
+
+#EXTINF:-1 tvg-id="CONCACAF Gold Cup - USA vs Costa Rica" tvg-name="00:00 CONCACAF Gold Cup : USA vs Costa Rica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Sport 2 Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-141.php
+
+#EXTINF:-1 tvg-id="Colombia - Primera A - Medellín vs Santa Fe" tvg-name="00:00 Colombia - Primera A : Medellín vs Santa Fe - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Win+ Futbol Colombia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-392.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Cusco vs Alianza Universidad" tvg-name="00:00 Peru - Primera Division : Cusco vs Alianza Universidad - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", Liga 1 Max Peru
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-11.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Los Angeles FC vs Vancouver Whitecaps" tvg-name="02:30 Major League Soccer : Los Angeles FC vs Vancouver Whitecaps - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer", MLS Season Pass
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-68.php
+
+#EXTINF:-1 tvg-id="FIH Pro League - Belgium vs England" tvg-name="12:00 FIH Pro League : Belgium vs England - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Field Hockey", SuperSport Football
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-56.php
+
+#EXTINF:-1 tvg-id="FIH Pro League Women - Germany W vs England W" tvg-name="13:00 FIH Pro League Women : Germany W vs England W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Field Hockey", Magenta Sport
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-14.php
+
+#EXTINF:-1 tvg-id="FIH Pro League Women - Belgium W vs Netherlands W" tvg-name="14:30 FIH Pro League Women : Belgium W vs Netherlands W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Field Hockey", SuperSport Football
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-56.php
+
+#EXTINF:-1 tvg-id="FIH Pro League Women - Germany vs Spain" tvg-name="18:00 FIH Pro League Women : Germany vs Spain - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Field Hockey", Magenta Sport
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-14.php
+
+#EXTINF:-1 tvg-id="FIH Pro League Women - Germany vs Spain" tvg-name="18:00 FIH Pro League Women : Germany vs Spain - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Field Hockey", SuperSport Football
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-56.php
+
+#EXTINF:-1 tvg-id="Major League Pickleball MLP San Clemente, CA Live - Major League Pickleball MLP San Clemente, CA Live" tvg-name="18:00 Major League Pickleball MLP San Clemente, CA Live - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-40.php
+
+#EXTINF:-1 tvg-id="GT World Challenge Europe Motor Racing - 24 Hours of Spa - GT World Challenge Europe Motor Racing - 24 Hours of Spa" tvg-name="06:00 GT World Challenge Europe Motor Racing - 24 Hours of Spa - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports MIX UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-449.php
+
+#EXTINF:-1 tvg-id="GT World Challenge Europe Motor Racing - 24 Hours of Spa - GT World Challenge Europe Motor Racing - 24 Hours of Spa" tvg-name="06:00 GT World Challenge Europe Motor Racing - 24 Hours of Spa - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 3 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-919.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 14 - WRC Rally Greece | Special Stage 14" tvg-name="06:03 WRC Rally Greece | Special Stage 14 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-607.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 14 - WRC Rally Greece | Special Stage 14" tvg-name="06:03 WRC Rally Greece | Special Stage 14 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 6 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-212.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 14 - WRC Rally Greece | Special Stage 14" tvg-name="06:03 WRC Rally Greece | Special Stage 14 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-702.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 14 - WRC Rally Greece | Special Stage 14" tvg-name="06:03 WRC Rally Greece | Special Stage 14 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-464.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 14 - WRC Rally Greece | Special Stage 14" tvg-name="06:03 WRC Rally Greece | Special Stage 14 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 3 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-714.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 14 - WRC Rally Greece | Special Stage 14" tvg-name="06:03 WRC Rally Greece | Special Stage 14 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-626.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-60.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-274.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-537.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-122.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Formula 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-273.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 5 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-592.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-577.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-774.php
+
+#EXTINF:-1 tvg-id="Formula 3 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="07:30 Formula 3 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 MX
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-929.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-32.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-575.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-271.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-557.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-556.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-445.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-464.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-289.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-149.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-628.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-916.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 1 Romania
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-400.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN2 Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-150.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Okys Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Warm Up" tvg-name="08:30 MotoGP : Dutch Grand Prix Warm Up - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN4 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-85.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-60.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-274.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-537.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-122.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Formula 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-273.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 5 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-592.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-577.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-774.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 MX
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-929.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", BandSports Brasil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-275.php
+
+#EXTINF:-1 tvg-id="Formula 2 - MSC Cruises Austrian GP Race - Spielberg" tvg-name="09:00 Formula 2 : MSC Cruises Austrian GP Race - Spielberg - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-32.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-575.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-271.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-557.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-556.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-445.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-464.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-289.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-149.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-628.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN2 Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-150.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-916.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 1 Romania
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-400.php
+
+#EXTINF:-1 tvg-id="Moto3 - Dutch Grand Prix Race" tvg-name="09:00 Moto3 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Okys Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="Porsche Supercup Round 4 | Austria - Porsche Supercup Round 4 | Austria" tvg-name="10:30 Porsche Supercup Round 4 | Austria - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 4 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-34.php
+
+#EXTINF:-1 tvg-id="Porsche Supercup Round 4 | Austria - Porsche Supercup Round 4 | Austria" tvg-name="10:30 Porsche Supercup Round 4 | Austria - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-60.php
+
+#EXTINF:-1 tvg-id="Porsche Supercup Round 4 | Austria - Porsche Supercup Round 4 | Austria" tvg-name="10:30 Porsche Supercup Round 4 | Austria - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", BandSports Brasil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-275.php
+
+#EXTINF:-1 tvg-id="Porsche Supercup Round 4 | Austria - Porsche Supercup Round 4 | Austria" tvg-name="10:30 Porsche Supercup Round 4 | Austria - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="Porsche Supercup Round 4 | Austria - Porsche Supercup Round 4 | Austria" tvg-name="10:30 Porsche Supercup Round 4 | Austria - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-272.php
+
+#EXTINF:-1 tvg-id="Porsche Supercup Round 4 | Austria - Porsche Supercup Round 4 | Austria" tvg-name="10:30 Porsche Supercup Round 4 | Austria - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 16 - WRC Rally Greece | Special Stage 16" tvg-name="10:30 WRC Rally Greece | Special Stage 16 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-607.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 16 - WRC Rally Greece | Special Stage 16" tvg-name="10:30 WRC Rally Greece | Special Stage 16 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 6 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-212.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 16 - WRC Rally Greece | Special Stage 16" tvg-name="10:30 WRC Rally Greece | Special Stage 16 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-702.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 16 - WRC Rally Greece | Special Stage 16" tvg-name="10:30 WRC Rally Greece | Special Stage 16 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-122.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 16 - WRC Rally Greece | Special Stage 16" tvg-name="10:30 WRC Rally Greece | Special Stage 16 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 3 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-714.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 16 - WRC Rally Greece | Special Stage 16" tvg-name="10:30 WRC Rally Greece | Special Stage 16 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-626.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-32.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-575.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-271.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-557.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-556.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-445.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-464.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-289.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-149.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-628.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN2 Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-150.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-916.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 1 Romania
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-400.php
+
+#EXTINF:-1 tvg-id="Moto2 - Dutch Grand Prix Race" tvg-name="11:00 Moto2 : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Okys Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="SPEEDWAY2 .Ekstraliga - Leszno vs Rzeszow - SPEEDWAY2 .Ekstraliga - Leszno vs Rzeszow" tvg-name="12:00 SPEEDWAY2 .Ekstraliga - Leszno vs Rzeszow - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ Sport 5 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-75.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 17 - WRC Rally Greece | Special Stage 17" tvg-name="12:15 WRC Rally Greece | Special Stage 17 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rally Tv
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-607.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 17 - WRC Rally Greece | Special Stage 17" tvg-name="12:15 WRC Rally Greece | Special Stage 17 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 6 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-212.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 17 - WRC Rally Greece | Special Stage 17" tvg-name="12:15 WRC Rally Greece | Special Stage 17 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV4 Motor
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-702.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 17 - WRC Rally Greece | Special Stage 17" tvg-name="12:15 WRC Rally Greece | Special Stage 17 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-122.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 17 - WRC Rally Greece | Special Stage 17" tvg-name="12:15 WRC Rally Greece | Special Stage 17 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 3 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-714.php
+
+#EXTINF:-1 tvg-id="WRC Rally Greece | Special Stage 17 - WRC Rally Greece | Special Stage 17" tvg-name="12:15 WRC Rally Greece | Special Stage 17 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 5 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-626.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-60.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-274.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-537.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-121.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Formula 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-273.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 1 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-588.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-577.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-774.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Vodafone Sport
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-260.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV3+ Denmark
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-819.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-272.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Deportes
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-375.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 MX
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-929.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Grand Prix Sunday" tvg-name="13:00 Formula 1 : MSC Cruises Austrian GP - Grand Prix Sunday - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TNT Sports 2 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-32.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport MotoGP Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-575.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-39.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Deportes
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-643.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ MotoGP France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-271.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Mix DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-557.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-121.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport Top Event DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-556.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN1 ES
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-445.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Sport 360
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-464.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV4 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-289.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-149.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cosmote Sport 7 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-628.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV3 Sport Denmark
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-809.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-916.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Ziggo Sport 1 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-393.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN2 Argentina
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-150.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", MAX Sport 2 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Digi Sport 1 Romania
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-400.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN4 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-85.php
+
+#EXTINF:-1 tvg-id="MotoGP - Dutch Grand Prix Race" tvg-name="13:00 MotoGP : Dutch Grand Prix Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Okys Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="Porsche Carrera Cup BRA Portim?o Races 2 - Porsche Carrera Cup BRA Portim?o Races 2" tvg-name="13:00 Porsche Carrera Cup BRA Portim?o Races 2 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", BandSports Brasil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-275.php
+
+#EXTINF:-1 tvg-id="Porsche Carrera Cup BRA Portim?o Races 2 - Porsche Carrera Cup BRA Portim?o Races 2" tvg-name="13:00 Porsche Carrera Cup BRA Portim?o Races 2 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport TV2 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-74.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-60.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-111.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TSN5
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-115.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ESPN USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-44.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-274.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", DAZN F1 ES
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-537.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-121.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Canal+ Formula 1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-273.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport 1 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-588.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sports F1 Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-577.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", ANT+ F1 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-774.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Vodafone Sport
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-260.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", TV3+ Denmark
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-819.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Cytavision Sports 6
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-916.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport Klub 3 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", V Sport Motor Sweden
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-272.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 MX
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-929.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", beIN Sports 1 Malaysia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-712.php
+
+#EXTINF:-1 tvg-id="Formula 1 - MSC Cruises Austrian GP - Race" tvg-name="14:00 Formula 1 : MSC Cruises Austrian GP - Race - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sport 5 Live Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-146.php
+
+#EXTINF:-1 tvg-id="SPEEDWAY2 .Ekstraliga - Krosno vs Lodz - SPEEDWAY2 .Ekstraliga - Krosno vs Lodz" tvg-name="14:15 SPEEDWAY2 .Ekstraliga - Krosno vs Lodz - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ Sport 5 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-75.php
+
+#EXTINF:-1 tvg-id="SPEEDWAY2 .Ekstraliga - Torun vs Zielona Gora - SPEEDWAY2 .Ekstraliga - Torun vs Zielona Gora" tvg-name="16:00 SPEEDWAY2 .Ekstraliga - Torun vs Zielona Gora - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ Sport 5 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-75.php
+
+#EXTINF:-1 tvg-id="SPEEDWAY2 .Ekstraliga - Torun vs Zielona Gora - SPEEDWAY2 .Ekstraliga - Torun vs Zielona Gora" tvg-name="16:00 SPEEDWAY2 .Ekstraliga - Torun vs Zielona Gora - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ Sport Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-48.php
+
+#EXTINF:-1 tvg-id="Nascar La course. Quaker State 400 Available at Walmart - Nascar La course. Quaker State 400 Available at Walmart" tvg-name="18:00 Nascar La course. Quaker State 400 Available at Walmart - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sportdigital1+
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-640.php
+
+#EXTINF:-1 tvg-id="Pro Motocross Championship Southwick National - Pro Motocross Championship Southwick National" tvg-name="18:00 Pro Motocross Championship Southwick National - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", NBC USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-53.php
+
+#EXTINF:-1 tvg-id="SPEEDWAY2 .Ekstraliga - Rybnik vs Czestochowa - SPEEDWAY2 .Ekstraliga - Rybnik vs Czestochowa" tvg-name="18:30 SPEEDWAY2 .Ekstraliga - Rybnik vs Czestochowa - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", CANAL+ Sport Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-48.php
+
+#EXTINF:-1 tvg-id="NHRA Drag Racing Summit Racing Equipment Nationals - NHRA Drag Racing Summit Racing Equipment Nationals" tvg-name="19:00 NHRA Drag Racing Summit Racing Equipment Nationals - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", FOX USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-54.php
+
+#EXTINF:-1 tvg-id="NHRA Drag Racing Summit Racing Equipment Nationals - NHRA Drag Racing Summit Racing Equipment Nationals" tvg-name="19:00 NHRA Drag Racing Summit Racing Equipment Nationals - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", FOXNY USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-768.php
+
+#EXTINF:-1 tvg-id="NASCAR Sprint Cup Series Atlanta Motor Speedway - NASCAR Sprint Cup Series Atlanta Motor Speedway" tvg-name="22:00 NASCAR Sprint Cup Series Atlanta Motor Speedway - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Viaplay Sports 1 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-451.php
+
+#EXTINF:-1 tvg-id="European League of Football - Frankfurt Galaxy vs. Prague Lions" tvg-name="12:00 European League of Football : Frankfurt Galaxy vs. Prague Lions - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Max Sport 1 Croatia HD
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-779.php
+
+#EXTINF:-1 tvg-id="European League of Football - Raiders Tirol vs. Vienna Vikings" tvg-name="15:25 European League of Football : Raiders Tirol vs. Vienna Vikings - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Puls 24 HD Austria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-15.php
+
+#EXTINF:-1 tvg-id="CFL - Ottawa Redblacks vs Toronto Argonauts" tvg-name="00:00 CFL : Ottawa Redblacks vs Toronto Argonauts - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", TSN1
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-111.php
+
+#EXTINF:-1 tvg-id="CFL - Ottawa Redblacks vs Toronto Argonauts" tvg-name="00:00 CFL : Ottawa Redblacks vs Toronto Argonauts - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", TSN4
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-114.php
+
+#EXTINF:-1 tvg-id="CFL - Ottawa Redblacks vs Toronto Argonauts" tvg-name="00:00 CFL : Ottawa Redblacks vs Toronto Argonauts - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", RDS 2 CA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-840.php
+
+#EXTINF:-1 tvg-id="CFL - Ottawa Redblacks vs Toronto Argonauts" tvg-name="00:00 CFL : Ottawa Redblacks vs Toronto Argonauts - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS Sports Network
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-308.php
+
+#EXTINF:-1 tvg-id="Athletics - European Team Championships - Madrid 2025 Day 4" tvg-name="17:00 Athletics: European Team Championships - Madrid 2025 Day 4 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Athletics", TVP Sport Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-128.php
+
+#EXTINF:-1 tvg-id="Athletics - European Team Championships - Madrid 2025 Day 4" tvg-name="17:00 Athletics: European Team Championships - Madrid 2025 Day 4 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Athletics", Duna World Hungary
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-16.php
+
+#EXTINF:-1 tvg-id="NBL - Sharks vs Whai" tvg-name="07:30 NBL : Sharks vs Whai - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sky Sport 3 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-590.php
+
+#EXTINF:-1 tvg-id="European Championship (W) for 7th place - Lithuania W vs Turkey W" tvg-name="09:45 European Championship (W) for 7th place : Lithuania W vs Turkey W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-637.php
+
+#EXTINF:-1 tvg-id="European Championship (W) for 7th place - Lithuania W vs Turkey W" tvg-name="09:45 European Championship (W) for 7th place : Lithuania W vs Turkey W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 2 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="European Championship (W) for 7th place - Lithuania W vs Turkey W" tvg-name="09:45 European Championship (W) for 7th place : Lithuania W vs Turkey W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 4 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="FIBA 3X3 World Cup - Semi-final 1" tvg-name="11:00 FIBA 3X3 World Cup : Semi-final 1 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 3 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="FIBA 3X3 World Cup - Semi-final 2" tvg-name="11:25 FIBA 3X3 World Cup : Semi-final 2 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 3 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="FIBA 3X3 World Cup 2025 - Sword for 3rd place" tvg-name="12:25 FIBA 3X3 World Cup 2025 : Sword for 3rd place - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 3 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="European Championship (W) 5th place - Czech Republic W vs Germany W" tvg-name="12:30 European Championship (W) 5th place : Czech Republic W vs Germany W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-637.php
+
+#EXTINF:-1 tvg-id="European Championship (W) 5th place - Czech Republic W vs Germany W" tvg-name="12:30 European Championship (W) 5th place : Czech Republic W vs Germany W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 2 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="European Championship (W) 5th place - Czech Republic W vs Germany W" tvg-name="12:30 European Championship (W) 5th place : Czech Republic W vs Germany W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportklub 4 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-104.php
+
+#EXTINF:-1 tvg-id="FIBA 3X3 World Cup 2025 - FINALE" tvg-name="13:25 FIBA 3X3 World Cup 2025 : FINALE - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 3 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="European Championship (W) 3rd place - France W vs Italy W" tvg-name="15:30 European Championship (W) 3rd place : France W vs Italy W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-637.php
+
+#EXTINF:-1 tvg-id="European Championship (W) 3rd place - France W vs Italy W" tvg-name="15:30 European Championship (W) 3rd place : France W vs Italy W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 2 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="European Championship (W) 3rd place - France W vs Italy W" tvg-name="15:30 European Championship (W) 3rd place : France W vs Italy W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="FIBA U19 World Championship - Israel vs Jordan" tvg-name="16:00 FIBA U19 World Championship: Israel vs Jordan - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Okys Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-145.php
+
+#EXTINF:-1 tvg-id="BG League - Belgrade" tvg-name="17:00 BG League : Belgrade - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Sport 3 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-431.php
+
+#EXTINF:-1 tvg-id="BIG3 (3x3) - Houston Rig Hands vs LA Riot" tvg-name="18:00 BIG3 (3x3) : Houston Rig Hands vs LA Riot - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-52.php
+
+#EXTINF:-1 tvg-id="BIG3 (3x3) - Houston Rig Hands vs LA Riot" tvg-name="18:00 BIG3 (3x3) : Houston Rig Hands vs LA Riot - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 3 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="BIG3 (3x3) - Houston Rig Hands vs LA Riot" tvg-name="18:00 BIG3 (3x3) : Houston Rig Hands vs LA Riot - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport klub 3 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-103.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TVE La 2 Spain
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-536.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TMC France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-59.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Magenta Sport
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-68.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Nova Sports Start Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-637.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Arena Premium 2 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-135.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Rai Sports IT
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-882.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CT sport CZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-69.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Duna World Hungary
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-16.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Ziggo Sport 5 NL
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-383.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Diema Sport 2 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-466.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN 2 BR
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-82.php
+
+#EXTINF:-1 tvg-id="European Championship (W) Final - Spain W vs Belgium W" tvg-name="18:30 European Championship (W) Final : Spain W vs Belgium W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs Boston Ball Hogs" tvg-name="19:00 BIG3 Basketball : Miami 305 vs Boston Ball Hogs - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBSNY USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-767.php
+
+#EXTINF:-1 tvg-id="BIG3 Basketball - Miami 305 vs Boston Ball Hogs" tvg-name="19:00 BIG3 Basketball : Miami 305 vs Boston Ball Hogs - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", CBS USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-52.php
+
+#EXTINF:-1 tvg-id="CEBL Basketball - Niagara River Lions vs Brampton Honey Badgers" tvg-name="19:00 CEBL Basketball : Niagara River Lions vs Brampton Honey Badgers - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NLSE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-105.php
+
+#EXTINF:-1 tvg-id="WNBA - New York Liberty W vs Atlanta Dream W" tvg-name="20:00 WNBA : New York Liberty W vs Atlanta Dream W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", MY9TV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-654.php
+
+#EXTINF:-1 tvg-id="BIG3 Basketball - Dallas Power vs Detroit Amplifiers" tvg-name="20:30 BIG3 Basketball : Dallas Power vs Detroit Amplifiers - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", VICE TV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-659.php
+
+#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Chicago Sky W" tvg-name="21:00 WNBA : Los Angeles Sparks W vs Chicago Sky W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TNT Sports 4 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-34.php
+
+#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Chicago Sky W" tvg-name="21:00 WNBA : Los Angeles Sparks W vs Chicago Sky W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TSN2
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-112.php
+
+#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Chicago Sky W" tvg-name="21:00 WNBA : Los Angeles Sparks W vs Chicago Sky W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-44.php
+
+#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Chicago Sky W" tvg-name="21:00 WNBA : Los Angeles Sparks W vs Chicago Sky W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN Deportes
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-375.php
+
+#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Chicago Sky W" tvg-name="21:00 WNBA : Los Angeles Sparks W vs Chicago Sky W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Cosmote Sport 8 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-629.php
+
+#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Chicago Sky W" tvg-name="21:00 WNBA : Los Angeles Sparks W vs Chicago Sky W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", TV4 Sportkanalen
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-707.php
+
+#EXTINF:-1 tvg-id="WNBA - Los Angeles Sparks W vs Chicago Sky W" tvg-name="21:00 WNBA : Los Angeles Sparks W vs Chicago Sky W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-82.php
+
+#EXTINF:-1 tvg-id="Women's AmeriCup - Mexico W vs Chile W" tvg-name="22:40 Women's AmeriCup : Mexico W vs Chile W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport klub 2 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Las Vegas Aces W" tvg-name="23:00 WNBA : Phoenix Mercury W vs Las Vegas Aces W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBA TV USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-404.php
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Las Vegas Aces W" tvg-name="23:00 WNBA : Phoenix Mercury W vs Las Vegas Aces W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sportsnet 360 CA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-409.php
+
+#EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs Las Vegas Aces W" tvg-name="23:00 WNBA : Phoenix Mercury W vs Las Vegas Aces W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport 5 Israel
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-144.php
+
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx W vs Connecticut Sun W" tvg-name="00:00 WNBA : Minnesota Lynx W vs Connecticut Sun W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", NBCS Boston USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-754.php
+
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx W vs Connecticut Sun W" tvg-name="00:00 WNBA : Minnesota Lynx W vs Connecticut Sun W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", FanDuel Sports Network North
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-898.php
+
+#EXTINF:-1 tvg-id="Women's AmeriCup - USA W vs Colombia W" tvg-name="01:10 Women's AmeriCup : USA W vs Colombia W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", Sport klub 2 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="Women's AmeriCup - USA W vs Colombia W" tvg-name="01:10 Women's AmeriCup : USA W vs Colombia W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", ESPN2 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-82.php
+
+#EXTINF:-1 tvg-id="WNBA - Seattle Storm W vs Golden State Valkyries W" tvg-name="01:30 WNBA : Seattle Storm W vs Golden State Valkyries W - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basketball", WNBA League Pass
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-12.php
+
+#EXTINF:-1 tvg-id="ICF Canoe Slalom World Cup D3 - ICF Canoe Slalom World Cup D3" tvg-name="13:00 ICF Canoe Slalom World Cup D3 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Sailing / Boating", Sky Sport 6 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-593.php
+
+#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's & Women's Lead | Final - World Cup | Innsbruck Men's & Women's Lead | Final" tvg-name="18:15 World Cup | Innsbruck Men's & Women's Lead | Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", TNT Sports 4 UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-34.php
+
+#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's & Women's Lead | Final - World Cup | Innsbruck Men's & Women's Lead | Final" tvg-name="18:15 World Cup | Innsbruck Men's & Women's Lead | Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-57.php
+
+#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's & Women's Lead | Final - World Cup | Innsbruck Men's & Women's Lead | Final" tvg-name="18:15 World Cup | Innsbruck Men's & Women's Lead | Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Spain
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-524.php
+
+#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's & Women's Lead | Final - World Cup | Innsbruck Men's & Women's Lead | Final" tvg-name="18:15 World Cup | Innsbruck Men's & Women's Lead | Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-772.php
+
+#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's & Women's Lead | Final - World Cup | Innsbruck Men's & Women's Lead | Final" tvg-name="18:15 World Cup | Innsbruck Men's & Women's Lead | Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", Eurosport 1 SE
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-231.php
+
+#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's & Women's Lead | Final - World Cup | Innsbruck Men's & Women's Lead | Final" tvg-name="18:15 World Cup | Innsbruck Men's & Women's Lead | Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Italy
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-878.php
+
+#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's & Women's Lead | Final - World Cup | Innsbruck Men's & Women's Lead | Final" tvg-name="18:15 World Cup | Innsbruck Men's & Women's Lead | Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-772.php
+
+#EXTINF:-1 tvg-id="World Cup | Innsbruck Men's & Women's Lead | Final - World Cup | Innsbruck Men's & Women's Lead | Final" tvg-name="18:15 World Cup | Innsbruck Men's & Women's Lead | Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Climbing", EuroSport 1 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-41.php
+
+#EXTINF:-1 tvg-id="X Games Salt Lake City 2025 - X Games Salt Lake City 2025" tvg-name="18:00 X Games Salt Lake City 2025 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Extreme sports", ABC USA
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-51.php
+
+#EXTINF:-1 tvg-id="Liga SportZone - Sporting vs Benfica" tvg-name="19:00 Liga SportZone : Sporting vs Benfica - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Canal 11 Portugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-540.php
+
+#EXTINF:-1 tvg-id="GAA All-Ireland Senior Championship - Meath vs Galway - GAA All-Ireland Senior Championship - Meath vs Galway" tvg-name="13:45 GAA All-Ireland Senior Championship - Meath vs Galway - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="GAA", RTE 2
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-365.php
+
+#EXTINF:-1 tvg-id="GAA All-Ireland Senior Championship - Armagh vs Kerry - GAA All-Ireland Senior Championship - Armagh vs Kerry" tvg-name="16:00 GAA All-Ireland Senior Championship - Armagh vs Kerry - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="GAA", RTE 2
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-365.php
+
+#EXTINF:-1 tvg-id="U-21 World Championship - Poland 2025 match for 3rd place - U-21 World Championship - Poland 2025 match for 3rd place" tvg-name="16:00 U-21 World Championship - Poland 2025 match for 3rd place - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Polsat Sport 2 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="Men's Handball - U-21 World Championship - Poland 2025 final match" tvg-name="18:20 Men's Handball: U-21 World Championship - Poland 2025 final match - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Handball", Polsat Sport 2 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="Netball Superleague Preliminary Final - Loughborough Lightning vs. Manchester Thunder" tvg-name="16:00 Netball Superleague Preliminary Final : Loughborough Lightning vs. Manchester Thunder - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Netball", Sky Sports Action UK
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-37.php
+
+#EXTINF:-1 tvg-id="National Rugby League - Melbourne Storm vs Cronulla Sharks" tvg-name="05:00 National Rugby League : Melbourne Storm vs Cronulla Sharks - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sport 2 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-589.php
+
+#EXTINF:-1 tvg-id="National Rugby League - Gold Coast Titans vs NQ Cowboys" tvg-name="07:05 National Rugby League : Gold Coast Titans vs NQ Cowboys - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", beIN Sports 1 France
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-116.php
+
+#EXTINF:-1 tvg-id="National Rugby League - Gold Coast Titans vs NQ Cowboys" tvg-name="07:05 National Rugby League : Gold Coast Titans vs NQ Cowboys - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sky Sport 2 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-589.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - St Helens vs Salford Red Devils" tvg-name="15:00 Super League Rugby : St Helens vs Salford Red Devils - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Fox Soccer Plus
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-756.php
+
+#EXTINF:-1 tvg-id="Super League Rugby - St Helens vs Salford Red Devils" tvg-name="15:00 Super League Rugby : St Helens vs Salford Red Devils - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby League", Sportsnet World
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-410.php
+
+#EXTINF:-1 tvg-id="World Championship U20 - England U20 vs Scotland U20" tvg-name="14:30 World Championship U20 : England U20 vs Scotland U20 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 3 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-590.php
+
+#EXTINF:-1 tvg-id="World Championship U20 - Australia U20 vs South Africa U20" tvg-name="14:30 World Championship U20 : Australia U20 vs South Africa U20 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Rai Sport 1 IT
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-882.php
+
+#EXTINF:-1 tvg-id="World Championship U20 - Australia U20 vs South Africa U20" tvg-name="14:30 World Championship U20 : Australia U20 vs South Africa U20 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 2 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-589.php
+
+#EXTINF:-1 tvg-id="World Championship U20 - Ireland U20 vs Georgia U20" tvg-name="17:00 World Championship U20 : Ireland U20 vs Georgia U20 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 3 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-590.php
+
+#EXTINF:-1 tvg-id="World Championship U20 - France U20 vs Spain U20" tvg-name="17:00 World Championship U20 : France U20 vs Spain U20 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 2 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-589.php
+
+#EXTINF:-1 tvg-id="World Championship U20 - New Zealand U20 vs Italy U20" tvg-name="19:30 World Championship U20 : New Zealand U20 vs Italy U20 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 2 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-589.php
+
+#EXTINF:-1 tvg-id="World Championship U20 - Argentina U20 vs Wales U20" tvg-name="19:30 World Championship U20 : Argentina U20 vs Wales U20 - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Rugby Union", Sky Sport 3 NZ
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-590.php
+
+#EXTINF:-1 tvg-id="Premier Padel. Valladolid (T2025) - Women's Final" tvg-name="09:00 Premier Padel. Valladolid (T2025): Women's Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", M+ Vamos Spain
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-521.php
+
+#EXTINF:-1 tvg-id="Premier Padel. Valladolid (T2025) - Women's Final" tvg-name="09:00 Premier Padel. Valladolid (T2025): Women's Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport TV6 Poutugal
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-291.php
+
+#EXTINF:-1 tvg-id="Premier Padel. Valladolid (T2025) - Women's Final" tvg-name="09:00 Premier Padel. Valladolid (T2025): Women's Final - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Cosmote Sport 9 Greece
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-630.php
+
+#EXTINF:-1 tvg-id="IRONMAN Pro Series Ironman European Championships - IRONMAN Pro Series Ironman European Championships" tvg-name="12:15 IRONMAN Pro Series Ironman European Championships - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Triathlon", Das Erste
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-12.php
+
+#EXTINF:-1 tvg-id="Nations League - Slovenia vs. Japan" tvg-name="10:00 Nations League : Slovenia vs. Japan - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Slovenia vs. Japan" tvg-name="10:00 Nations League : Slovenia vs. Japan - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-429.php
+
+#EXTINF:-1 tvg-id="Nations League - Slovenia vs. Japan" tvg-name="10:00 Nations League : Slovenia vs. Japan - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 1 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-472.php
+
+#EXTINF:-1 tvg-id="Nations League - Slovenia vs. Japan" tvg-name="10:00 Nations League : Slovenia vs. Japan - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport klub 2 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs. Netherlands" tvg-name="12:00 Nations League : Iran vs. Netherlands - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs. Netherlands" tvg-name="12:00 Nations League : Iran vs. Netherlands - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 4 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-581.php
+
+#EXTINF:-1 tvg-id="Nations League - Iran vs. Netherlands" tvg-name="12:00 Nations League : Iran vs. Netherlands - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub HD Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League - Turkiye vs. France" tvg-name="13:00 Nations League : Turkiye vs. France - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 2 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-50.php
+
+#EXTINF:-1 tvg-id="Nations League - Turkiye vs. France" tvg-name="13:00 Nations League : Turkiye vs. France - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Sport 2 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-430.php
+
+#EXTINF:-1 tvg-id="Nations League - Turkiye vs. France" tvg-name="13:00 Nations League : Turkiye vs. France - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 1 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-472.php
+
+#EXTINF:-1 tvg-id="Nations League - Turkiye vs. France" tvg-name="13:00 Nations League : Turkiye vs. France - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport klub 2 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="Nations League - Cuba vs. Argentina" tvg-name="15:30 Nations League : Cuba vs. Argentina - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Cuba vs. Argentina" tvg-name="15:30 Nations League : Cuba vs. Argentina - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 3 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-139.php
+
+#EXTINF:-1 tvg-id="Nations League - Cuba vs. Argentina" tvg-name="15:30 Nations League : Cuba vs. Argentina - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub HD Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League - Cuba vs. Argentina" tvg-name="15:30 Nations League : Cuba vs. Argentina - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs. Ukraine" tvg-name="17:00 Nations League : Bulgaria vs. Ukraine - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport Premium 4 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-17.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs. Ukraine" tvg-name="17:00 Nations League : Bulgaria vs. Ukraine - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - Bulgaria vs. Ukraine" tvg-name="17:00 Nations League : Bulgaria vs. Ukraine - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport klub 2 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-102.php
+
+#EXTINF:-1 tvg-id="Nations League - China vs. Canada" tvg-name="18:30 Nations League : China vs. Canada - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport Premium 5 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-1.php
+
+#EXTINF:-1 tvg-id="Nations League - China vs. Canada" tvg-name="18:30 Nations League : China vs. Canada - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport klub 5 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-76.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs. Serbia" tvg-name="19:00 Nations League : Germany vs. Serbia - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs. Serbia" tvg-name="19:00 Nations League : Germany vs. Serbia - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs. Serbia" tvg-name="19:00 Nations League : Germany vs. Serbia - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sportklub HD Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-453.php
+
+#EXTINF:-1 tvg-id="Nations League - Germany vs. Serbia" tvg-name="19:00 Nations League : Germany vs. Serbia - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="22:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="22:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Arena Premium 1 Serbia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-134.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="22:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="22:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", SporTV2 Brazil
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-79.php
+
+#EXTINF:-1 tvg-id="Nations League - Brazil vs. Poland" tvg-name="22:00 Nations League : Brazil vs. Poland - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="Nations League - USA vs. Italy" tvg-name="01:30 Nations League : USA vs. Italy - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Polsat Sport 1 Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-47.php
+
+#EXTINF:-1 tvg-id="Nations League - USA vs. Italy" tvg-name="01:30 Nations League : USA vs. Italy - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Max Sport 2 Bulgaria
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-473.php
+
+#EXTINF:-1 tvg-id="Nations League - USA vs. Italy" tvg-name="01:30 Nations League : USA vs. Italy - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Volleyball", Sport Klub 1 Croatia
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-101.php
+
+#EXTINF:-1 tvg-id="Rowing - World Cup competition in Lucerne finals" tvg-name="10:00 Rowing: World Cup competition in Lucerne finals - 29/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Water Sports", TVP Sport Poland
+https://link.mfp/extractor/video?host=DLHD&redirect_stream=true&api_password=mfp&d=https://daddylive.dad/embed/stream-128.php
+
